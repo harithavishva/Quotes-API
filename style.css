@@ -1,0 +1,9 @@
+.container-fluid{
+    width: 400px;
+}
+body {
+    background: url("./Quote5.jpg") no-repeat;
+    background-size: cover;
+
+    
+}
